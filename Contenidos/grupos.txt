@@ -1,0 +1,66 @@
+- IIC2233 Programación Avanzada
+- IIC2133 Estructuras de Datos y Algoritmos
+- IIC2283 Diseño y Análisis de Algoritmos
+- IIC2613 Inteligencia Artificial
+- IIC3724 Reconocimiento de Patrones
+
+
+- IIC2143 Ingeniería de Software
+- IIC2513 Tecnologías y Aplicaciones Web
+- IIC2413 Bases de Datos
+
+
+- IIC2223 Teoría de Autómatas y Lenguajes Formales
+- IIC2213 Lógica para Ciencia de la Computación
+- IIC3253 Criptografía y Seguridad Computacional
+
+
+- IIC2333 Sistemas Operativos y Redes
+- IIC2343 Arquitectura de Computadores
+- IIC2523 Sistemas Distribuidos
+
+
+- IIC2713 Sistemas de Información
+
+
+
+-----------------------
+
+
+#### IIC2133 Estructuras de Datos y Algoritmos
+- Estructuras de datos básicas 
+    - Arreglos, listas ligadas, stacks, colas, tablas de hash; colas priorizadas
+    - Árboles de búsqueda binarios balanceados
+    - Arboles-B.
+- Algoritmos de ordenación 
+    - Insertionsort, Heapsort, Mergesort, Quicksort, y ordenación en tiempo O(n)
+    - Técnicas algorítmicas (dividir para conquistar; back-tracking; programación dinámica; algoritmos codiciosos).
+- Grafos
+    - Representaciones
+    - Exploraciones DFS y BFS
+    - Algoritmos fundamentales basados sobre BFS y DFS
+    - Arboles de cobertura de costo mínimo
+    - Rutas más cortas.
+
+- IIC2283 Diseño y Análisis de Algoritmos
+- IIC2613 Inteligencia Artificial
+- IIC3724 Reconocimiento de Patrones
+
+
+- IIC2143 Ingeniería de Software
+- IIC2513 Tecnologías y Aplicaciones Web
+- IIC2413 Bases de Datos
+
+
+- IIC2223 Teoría de Autómatas y Lenguajes Formales
+- IIC2213 Lógica para Ciencia de la Computación
+- IIC3253 Criptografía y Seguridad Computacional
+
+
+- IIC2333 Sistemas Operativos y Redes
+- IIC2343 Arquitectura de Computadores
+- IIC2523 Sistemas Distribuidos
+
+
+- IIC2713 Sistemas de Información
+
